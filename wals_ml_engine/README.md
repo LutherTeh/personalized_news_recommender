@@ -1,7 +1,9 @@
 
-NOTE: our custom recommender was modified based on existing google tensorflow content recommendation engine
 
-# Collaborative Filtering in TensorFlow using WALS
+## Note
+our custom recommender was modified based on existing google tensorflow content recommendation engine
+
+## Collaborative Filtering in TensorFlow using WALS
 
 This code implements a collaborative filtering recommendation model using the WALS
 (weighted least alternating squares) algorithm provided in TensorFlow, and applies
