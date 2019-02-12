@@ -2,6 +2,7 @@
 
 Develop hyper-personalized news recommendation engine for Malaysia media company
 
+Data source: Google Analytics
 Algorithm: weighted alternating least squares (WALS) 
 Recommendation type: User-based collaborative filtering
 
