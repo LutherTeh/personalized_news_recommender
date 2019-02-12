@@ -20,6 +20,13 @@ export IN_BUCKET=gs://mpd-recsys/nst/bq_data/nst_recsys_output_bq.csv
 ./mltrain.sh local  ${IN_BUCKET} --data-type web_views --use-optimized --output-dir trainer
 ```
 
+## 4) Generate top N recommendation engine for every user and save back to output GCP bucket
+
+```
+./trainer/recommend_for_users.py
+```
+
+
 ## Reference
 
 https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview
