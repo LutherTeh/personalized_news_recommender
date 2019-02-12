@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "recommend_for_users.py", line 35, in <module>
+    recommend_for_user()
+  File "recommend_for_users.py", line 28, in recommend_for_user
+    result_df = result_df.append( result )
+  File "/usr/lib64/python2.7/site-packages/pandas/core/frame.py", line 4547, in append
+    verify_integrity=verify_integrity)
+  File "/usr/lib64/python2.7/site-packages/pandas/core/reshape/concat.py", line 207, in concat
+    return op.get_result()
+  File "/usr/lib64/python2.7/site-packages/pandas/core/reshape/concat.py", line 407, in get_result
+    copy=self.copy)
+  File "/usr/lib64/python2.7/site-packages/pandas/core/internals.py", line 4832, in concatenate_block_managers
+    placement=placement) for placement, join_units in concat_plan]
+  File "/usr/lib64/python2.7/site-packages/pandas/core/internals.py", line 4947, in concatenate_join_units
+    concat_values = _concat._concat_compat(to_concat, axis=concat_axis)
+  File "/usr/lib64/python2.7/site-packages/pandas/core/dtypes/concat.py", line 166, in _concat_compat
+    return np.concatenate(to_concat, axis=axis)
+KeyboardInterrupt

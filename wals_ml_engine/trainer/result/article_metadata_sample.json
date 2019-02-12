@@ -1,0 +1,53 @@
+ {
+    "nid": 417373,
+    "title": "Najib spends three hours with AMLA Unit police",
+    "created": 1538549310,
+    "changed": 1538549310,
+    "url": "https://www.nst.com.my/news/nation/2018/10/417373/najib-spends-three-hours-amla-unit-police",
+    "field_article_author": {
+      "tid": 87134,
+      "name": "Hasbi Sidek",
+      "email": null
+    },
+    "field_article_topic": {
+      "tid": 1,
+      "name": "Nation"
+    },
+    "field_tags": [
+      {
+        "tid": 1417,
+        "name": "Najib Razak"
+      },
+      {
+        "tid": 2541,
+        "name": "1mdb"
+      },
+      {
+        "tid": 54211,
+        "name": "Amla"
+      },
+      {
+        "tid": 44940,
+        "name": "Commercial Crime Investigation Department"
+      },
+      {
+        "tid": 25403,
+        "name": "CCID"
+      }
+    ],
+    "field_article_images": [
+      {
+        "url": "https://assets.nst.com.my/images/articles/najibcharged_1538549306.jpg",
+        "caption": "File picture of former prime minister Datuk Seri Najib Razak when he was charged with several counts under the Anti-Money Laundering and Terrorism Financing Act 2001 on Aug 8. Najib was called in for questioning by police today in connection with investigations into 1Malaysia Development Bhd (1MDB)"
+      }
+    ],
+    "field_article_videos": null,
+    "field_image_first_sb_featured": null,
+    "field_image_second_sb_featured": null,
+    "field_image_listing_featured": "https://assets.nst.com.my/images/articles/pojibby_NSTfield_image_listing_featured.var_1538549309.jpg",
+    "field_image_listing_th": "https://assets.nst.com.my/images/articles/pojibby_NSTfield_image_listing_th.var_1538549310.jpg",
+    "field_image_three_wide_col": "https://assets.nst.com.my/images/articles/pojibby_NSTfield_image_three_wide_col.var_1538549310.jpg",
+    "field_image_two_wide_col": null,
+    "field_image_mobile_th": null,
+    "field_article_lead": "KUALA LUMPUR: Former prime minister Datuk Seri Najib Razak was questioned for more than three hours by Anti-Money Laundering (AMLA) Unit policemen at Menara KPJ in Jalan Tun Razak today.",
+  }
